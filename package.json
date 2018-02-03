@@ -4,8 +4,10 @@
   "description": "secondproject",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hongnhung4887/second-project.git"
@@ -19,5 +21,9 @@
   "homepage": "https://github.com/hongnhung4887/second-project#readme",
   "dependencies": {
     "express": "^4.16.2"
-  }
+  },
+
+"engines": {
+  "node": "9.4.0"
+}
 }
