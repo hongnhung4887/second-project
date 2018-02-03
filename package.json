@@ -1,0 +1,20 @@
+{
+  "name": "second-project",
+  "version": "1.0.0",
+  "description": "secondproject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hongnhung4887/second-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hongnhung4887/second-project/issues"
+  },
+  "homepage": "https://github.com/hongnhung4887/second-project#readme"
+}
